@@ -14,8 +14,10 @@ https://os.cohere.ai/custom-preset?ref=TheraLove-Symptoms-and-Therapy-zdslx9&e=c
 <<The Lovely Journey To Match The Most Suitable Healing Mental Health Therapy>>
 
 ### Relevant links
+- [LabLab.ai](https://lablab.ai/)
+- [Co:here](https://cohere.ai/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
-- [Co:here tech page](https://lablab.ai/t/cohere)
+
 
 Trial API Key: naio0EhWvEDsfePcQ0GMazRvJiuZiqfYr0ewwbuE
 
