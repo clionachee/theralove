@@ -1,0 +1,9 @@
+#Refer to https://api.cohere.ai/classify
+
+import cohere
+co = cohere.Client('<<apiKey>>')
+
+response = co.classify(
+  inputs=inputs,
+  examples=examples,
+)
