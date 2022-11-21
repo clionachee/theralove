@@ -1,4 +1,4 @@
-# Theralove made with Co:here Streamlit
+# Theralove made with Co:here in Cohere Thanksgiving AI Transformers Hackathon
 
 ### Demonstration:
 https://os.cohere.ai/custom-preset?ref=TheraLove-Symptoms-and-Therapy-zdslx9&e=classify 
