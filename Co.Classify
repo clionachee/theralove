@@ -1,4 +1,7 @@
 #Refer to https://api.cohere.ai/classify
+#Bearer:naio0EhWvEDsfePcQ0GMazRvJiuZiqfYr0ewwbuE
+
+$ python -m pip install cohere
 
 import cohere
 co = cohere.Client('<<apiKey>>')
