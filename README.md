@@ -18,3 +18,36 @@ https://os.cohere.ai/custom-preset?ref=TheraLove-Symptoms-and-Therapy-zdslx9&e=c
 - [Co:here tech page](https://lablab.ai/t/cohere)
 
 Trial API Key: naio0EhWvEDsfePcQ0GMazRvJiuZiqfYr0ewwbuE
+
+Data Sources:
+
+Institute of Health Metrics and Evaluation (IHME), Global Burden of Disease (GBD)
+Data: Deaths, DALYs and prevalence of mental health and substance use disorders, by age and sex
+Geographical coverage: Global by country and region
+Time span: 1990 – 2016
+Available at: http://ghdx.healthdata.org/gbd-results-tool
+World Health Organization (WHO) International Classification of Diseases (ICD)
+World Health Organization. (1992). The ICD-10 classification of mental and behavioural disorders: clinical descriptions and diagnostic guidelines (Vol. 1). World Health Organization.
+
+Data: Definitions and classifications of mental and substance use disorders
+Available at: ICD-10 Classification of Mental and Behavioural Disorders
+World Health Organization (WHO) Global Health Observatory (GHO)
+Data: Prevalence of depression
+Geographical coverage: Global by country
+Time span: 2015
+Available at: WHO Global Health Observatory (GHO)
+
+Tomitaka, S., Kawasaki, Y., Ide, K., Akutagawa, M., Yamada, H., Ono, Y., & Furukawa, T. A. (2018). Distributional patterns of item responses and total scores on the PHQ-9 in the general population: data from the National Health and Nutrition Examination Survey. BMC Psychiatry, 18(1), 1-9. https://link.springer.com/article/10.1186/s12888-018-1696-9 
+
+@article{owidmentalhealth,
+    author = {Saloni Dattani and Hannah Ritchie and Max Roser},
+    title = {Mental Health},
+    journal = {Our World in Data},
+    year = {2021},
+    note = {https://ourworldindata.org/mental-health}
+}
+
+
+
+
+
